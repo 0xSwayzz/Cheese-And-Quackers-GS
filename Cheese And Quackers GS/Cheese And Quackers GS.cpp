@@ -32,5 +32,9 @@ int main()
 
     std::cout << "Finding Tutorial..." << std::endl;
     std::cout << "Found! How To Get Season 8 Fortnite in 2023!" << std::endl;
+
+    std::cout << "Looking for LTN..." << std::endl;
+    std::cout << "Found LTN, returning LTN" << std::endl;
+    std::cout << "LTN = Swayzz" << std::endl;
 }
 
